@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021629245210",
+    "project_id": "testapp-ae1dd",
+    "storage_bucket": "testapp-ae1dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021629245210:android:3dfcbbe2290f6cd5e46ea3",
+        "android_client_info": {
+          "package_name": "com.minhien.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021629245210-lflvp2vekp5pkihe4jb81nk8etj77uk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS500lMJ95kCcSkcQftKlDL9eyota-xG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021629245210-lflvp2vekp5pkihe4jb81nk8etj77uk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
