@@ -16,7 +16,7 @@ public class ImageAdapter extends BaseAdapter {
 
     @Override
     public int getCount() {
-        return 36;
+        return 78;
     }
 
     @Override
